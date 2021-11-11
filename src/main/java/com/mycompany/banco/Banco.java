@@ -16,6 +16,11 @@ public class Banco {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //declaro una varible para crear un commint de l nuevo repositorio
+        int c;
+        //declaro segunda variable para nuevo commint
+        int b;
+        
         //Uso la clase escaner para introducir la variables
         Scanner teclado = new Scanner(System.in);
         System.out.println("Introduce la edad");
